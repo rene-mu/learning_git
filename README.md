@@ -1,3 +1,3 @@
 # learning_git
 
-this is tutorial for git and git hub
+this is tutorial for learnig  git and git hub 
