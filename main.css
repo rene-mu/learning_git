@@ -1,3 +1,10 @@
 body{
+  background: skyblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+  font-size: 15px;
 
+}
+
+form {
+    border: 2px;
 }
